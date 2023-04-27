@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <div className=" ">
         <div className="self-center text-center">
-          <p className="xl:text-4xl text-lg font-bold self-center">
+          <p className="xl:text-4xl text-lg font-bold self-center xl:my-4 my-1">
             Авторизация прошла успешно!
           </p>
           <p href="/" className="text-s">
